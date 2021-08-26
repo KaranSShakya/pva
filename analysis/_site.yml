@@ -1,7 +1,7 @@
-name: "Koshi-pva"
+name: "PVA Survey"
 output_dir: ../docs
 navbar:
-  title: "Koshi-pva"
+  title: "PVA Survey"
   left:
   - text: Home
     href: index.html
