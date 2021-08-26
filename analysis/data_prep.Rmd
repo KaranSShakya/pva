@@ -1,0 +1,50 @@
+---
+title: "Data Preparation"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: true
+    number_sections: true
+    toc_float:
+      collapsed: false
+editor_options:
+  chunk_output_type: console
+---
+
+
+# PVA Survey
+
+## Introduction
+
+The **Poverty and Vulnerability Assessment** (PVA) survey was collected by ICIMOD through their Himalayan Climate Change Adaptation Program (HICAP). This survey focuses on understanding "livelihood vulnerability" and "adaptive capacities" of people living in four river sub-basins in India, Nepal, China, and Pakistan. Most of the data were collected in **2011-12**.
+
+[ICIMOD's PVA page](https://www.icimod.org/initiative/poverty-and-vulnerability-assessment-pva/)
+
+[Data Publication Page](https://www.icimod.org/initiative/data-and-publication/)
+
+## Data Procurement
+
+Through the [metadata page](http://rds.icimod.org/Home/DataDetail?metadataId=22324&searchlist=True) the contact information of Ms. Sabarnee Tuladhar was found. Ms. Tuladhar provided us with the xlsx and STATA file of the survey.
+
+The STATA file contains the labeling for each column corresponding to its survey question.
+
+Ms. Tuladhar also sent the [survey questions](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/shakya_11_buckeyemail_osu_edu/EcllLnsIml1Mv6EKABlcqM8BGRlIVwes9Sx3Ab5u20kjog?e=cVWs92).
+
+Finally, ICIMOD has compiled a book on the PVA and it can be found [here](https://lib.icimod.org/record/29972).
+
+# PVA Survey Statistics
+
+## General
+
+Number of observations:
+
+* Nepal - 2310
+
+* India - 2647
+
+* China - 1987
+
+* Pakistan - 1139
+
+* **Total - 8083**
+

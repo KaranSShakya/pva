@@ -1,14 +1,18 @@
-name: "pva-workflowr"
+name: "Koshi-pva"
 output_dir: ../docs
 navbar:
-  title: "pva-workflowr"
+  title: "Koshi-pva"
   left:
   - text: Home
     href: index.html
-  - text: About
-    href: about.html
-  - text: License
-    href: license.html
+  - text: Research Outline
+    href: outline.html
+  - text: Data Preparation
+    href: data_prep.html
+  - text: Data Analysis
+    href: analysis.html
+  - text: Results
+    href: results.html
 output:
   workflowr::wflow_html:
     toc: yes

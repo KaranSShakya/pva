@@ -1,0 +1,15 @@
+---
+title: "Research Outline"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: true
+editor_options:
+  chunk_output_type: console
+---
+
+
+# 1
+
+# 2
+
